@@ -5,26 +5,27 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MaDHouSe79/mh-intercom/issues">
-    <img src="https://img.shields.io/github/issues/MaDHouSe79/mh-hunters"/> 
+  <a href="https://github.com/MH-Scripts/mh-intercom/issues">
+    <img src="https://img.shields.io/github/issues/MH-Scripts/mh-hunters"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-intercom/watchers">
-    <img src="https://img.shields.io/github/watchers/MaDHouSe79/mh-hunters"/> 
+  <a href="https://github.com/MH-Scripts/mh-intercom/watchers">
+    <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-hunters"/> 
   </a> 
-  <a href="https://github.com/MaDHouSe79/mh-hunters/network/members">
-    <img src="https://img.shields.io/github/forks/MaDHouSe79/mh-hunters"/> 
+  <a href="https://github.com/MH-Scripts/mh-hunters/network/members">
+    <img src="https://img.shields.io/github/forks/MH-Scripts/mh-hunters"/> 
   </a>  
-  <a href="https://github.com/MaDHouSe79/mh-hunters/stargazers">
-    <img src="https://img.shields.io/github/stars/MaDHouSe79/mh-hunters?color=white"/> 
+  <a href="https://github.com/MH-Scripts/mh-hunters/stargazers">
+    <img src="https://img.shields.io/github/stars/MH-Scripts/mh-hunters?color=white"/> 
   </a>
-  <a href="https://github.com/MaDHouSe79/mh-hunters/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MaDHouSe79/mh-hunters?color=black"/> 
+  <a href="https://github.com/MH-Scripts/mh-hunters/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MH-Scripts/mh-hunters?color=black"/> 
   </a>      
 </p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MaDHouSe79&margin-w=15&column=6" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MH-Scripts&margin-w=15&column=6" />
 </p>
+
 # MH-Hunters
 - incase you dont have police you can enable this.
 
