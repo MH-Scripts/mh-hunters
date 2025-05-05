@@ -460,12 +460,8 @@ RegisterNetEvent('QBCore:Client:OnPlayerUnload', function()
     OnPark()
 end)
 
-RegisterNetEvent('mh-hunters:client:startHunt', function(amount, cops)
-    if cops >= 1 then
-        Notify(Lang:t('info.can_not_call_hunters'))
-    else
-        Start(amount)
-    end
+RegisterNetEvent('mh-hunters:client:startHunt', function(amount)
+    Start(amount)
 end)
 
 RegisterNetEvent('mh-hunters:client:stopHunt', function()
